@@ -1,7 +1,7 @@
 import pacote1.*;
 import pacote2.*;
 
-public class Exe5 {
+public class Exe2 {
 
     public static void main (String args[]) {
 
@@ -12,7 +12,7 @@ public class Exe5 {
       // verificar os argumentos
       if (args.length != 3) {
         System.err.println("Erro: número de argumentos inválido.");
-        System.err.println("Uso: java Exe5 <operando> <operando> <operador>");
+        System.err.println("Uso: java Exe2 <operando> <operando> <operador>");
         System.exit(0);
       }  else {
         // extracao dos arumentos-operandos
